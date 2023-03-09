@@ -3,7 +3,7 @@ Uses the Modulo (%) to divide an entered number by 2 to pass back the remainder.
 
 ## Even or Odd Number ##
 
-![Even or Odd Number](<https://github.com/Ongoing-Knowledge-Scraping/BMI-Calculator/blob/main/Even-or-Odd-Number.gif> "Running the code")
+![Even or Odd Number](<https://github.com/Ongoing-Knowledge-Scraping/Even-or-Odd-Number/blob/main/Even-or-Odd-Number.gif> "Running the code")
 
 ## View on Replit ##
 https://replit.com/@kpatzer/Even-or-Odd-Number
